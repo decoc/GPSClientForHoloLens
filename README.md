@@ -1,5 +1,4 @@
 # GPSClientForHoloLens
 
 ## License
-* MIT  
-    * see LICENSE
+MIT
